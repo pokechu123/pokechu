@@ -1,2 +1,2 @@
 # pokechu
-Pokechu is a Pokemon discord bot.
+Pokechu is a Pokedex Website.
